@@ -1,6 +1,6 @@
 ## GEOREFERENCe.PY
 
-<img src="https://github.com/R3pl1k4nt3/Georeference/blob/main/georeference.jpeg" width="500" class="center" />
+<img src="https://github.com/R3pl1k4nt3/Georeference/blob/main/georeference.jpeg" width="500" align="center" />
 
 ### Scripts para obtener las coordenadas a partir de una dirección. Está preparado para leer archivos excel con los campos [Nombre Documento Delegación Dirección Municipio Provincia].
 
