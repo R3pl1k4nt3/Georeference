@@ -7,7 +7,7 @@
 * GeoreferenceGoogle = Emplea la api de google. Es necesario tener una apikey
 * GeoreferenceGoogleCompare = Compara dos archivos con coordenadas y genera un nuevo archivo con las posibles variaciones.
 
-* Genera un xlxs y un json con los siguientes campos: 
+### Genera un xlxs y un json con los siguientes campos: 
        * "id": 0,
        * "Nombre": "NOMBRE EMPRESA",
        * "Documento": "CIF",
